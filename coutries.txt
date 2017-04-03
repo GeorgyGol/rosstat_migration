@@ -1,0 +1,93 @@
+По-русски
+По-английски
+По-русски
+По-английски
+Абхазия	Abkhazia	Куба	Cuba
+Австралия	Australia	Кувейт	Kuwait
+Австрия	Austria	Лаос	Lao P.D.R.
+Азербайджан	Azerbaijan	Латвия	Latvia
+Аландские острова	Aland Islands	Лесото	Lesotho
+Албания	Albania	Либерия	Liberia
+Алжир	Algeria	Ливан	Lebanon
+Ангилья	Anguilla	Ливия	Libyan Arab Jamahiriya
+Ангола	Angola	Литва	Lithuania
+Андорра	Andorra	Лихтенштейн	Liechtenstein
+Аргентина	Argentina	Люксембург	Luxembourg
+Армения	Armenia	Маврикий	Mauritius
+Аруба	Aruba	Мавритания	Mauritania
+Афганистан	Afghanistan	Мадагаскар	Madagascar
+Багамские острова	Bahamas	Македония	Macedonia
+Бангладеш	Bangladesh	Малави	Malawi
+Барбадос	Barbados	Малайзия	Malaysia
+Бахрейн	Bahrain	Мали	Mali
+Беларусь	Belarus	Мальдивы	Maldives
+Белиз	Belize	Мальта	Malta
+Бельгия	Belgium	Марокко	Morocco
+Бенин	Benin	Мексика	Mexico
+Болгария	Bulgaria	Мозамбик	Mozambique
+Боливия	Bolivia	Молдавия	Moldova
+Босния и Герцеговина	Bosnia & Herzegovina	Монако	Monaco
+Ботсвана	Botswana	Монголия	Mongolia
+Бразилия	Brazil	Намибия	Namibia
+Бруней	Brunei Darussalam	Непал	Nepal
+Бурунди	Burundi	Нигер	Niger
+Бутан	Bhutan	Нигерия	Nigeria
+Ватикан	Vatican City	Нидерланды	Netherlands
+Великобритания	United Kingdom	Никарагуа	Nicaragua
+Венгрия	Hungary	Новая Зеландия	New Zealand
+Венесуэла	Venezuela	Норвегия	Norway
+Восточный Тимор	Timor, East	ОАЭ	United Arab Emirates
+Вьетнам	Viet Nam	Оман	Oman
+Габон	Gabon	Пакистан	Pakistan
+Гаити	Haiti	Панама	Panama
+Гамбия	Gambia	Парагвай	Paraguay
+Гана	Ghana	Перу	Peru
+Гваделупа	Guadeloupe	Польша	Poland
+Гватемала	Guatemala	Португалия	Portugal
+Гвинея	Guinea	Россия	Russia
+Гвинея-Бисау	Guinea-Bissau	Румыния	Romania
+Германия	Germany	Сан-Марино	San Marino
+Гибралтар	Gibraltar	Саудовская Аравия	Saudi Arabia
+Гонконг	Hong Kong	Сенегал	Senegal
+Гондурас	Honduras	Сербия	Serbia
+Гренада	Grenada	Сингапур	Singapore
+Гренландия	Greenland	Сирия	Syrian Arab Republic
+Греция	Greece	Словакия	Slovakia
+Грузия	Georgia	Словения	Slovenia
+Гуам	Guam	Сомали	Somalia
+Дания	Denmark	Судан	Sudan
+Доминика	Dominica	США	USA
+Доминиканская Республика	Dominican Republic	Таджикистан	Tajikistan
+Египет	Egypt	Таиланд	Thailand
+Замбия	Zambia	Танзания	Tanzania
+Западная Сахара	Western Sahara	Того	Togo
+Зимбабве	Zimbabwe	Тунис	Tunisia
+Израиль	Israel	Туркмения	Turkmenistan
+Индия	India	Турция	Turkey
+Индонезия	Indonesia	Уганда	Uganda
+Иордания	Jordan	Узбекистан	Uzbekistan
+Ирак	Iraq	Украина	Ukraine
+Иран	Iran	Уругвай	Uruguay
+Ирландия	Ireland	Федеративные Штаты Микронезии	Micronesia
+Исландия	Iceland	Фиджи	Fiji
+Испания	Spain	Филиппины	Philippines
+Италия	Italy	Финляндия	Finland
+Йемен	Yemen	Франция	France
+Казахстан	Kazakhstan	Хорватия	Croatia
+Камбоджа	Cambodia	Чад	Chad
+Камерун	Cameroon	Черногория	Montenegro
+Канада	Canada	Чешская Республика	Czech Republic
+Катар	Qatar	Чили	Chile
+Кения	Kenya	Швейцария	Switzerland
+Кипр	Cyprus	Швеция	Sweden
+Киргизия	Kyrgyzstan	Шри-Ланка	Sri Lanka
+Кирибати	Kiribati	Эквадор	Ecuador
+Китай	China	Эритрея	Eritrea
+Колумбия	Colombia	Эстония	Estonia
+Корея Северная	Korea, D.P.R.	Эфиопия	Ethiopia
+Корея Южная	Korea	ЮАР	South Africa
+Коста-Рика	Costa Rica	Ямайка	Jamaica
+Кот-д'Ивуар	Cote d'Ivoire	Япония	Japan
+Республика Молдова	Moldova Republic	Соединенное Королевство (Великобритания)	United Kingdom
+Корейская Народно-Демократическая Республика	Korea, D.P.R.	Сирийская Арабская Республика	Syrian Arab Republic
+Республика Корея	Korea	Палестина	Palestine
